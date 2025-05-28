@@ -1,6 +1,6 @@
-# openloongretarget
+# openloong_retarget
 
-Copyright 2025 国地共建人形机器人创新中心/人形机器人（上海）有限公司, https://www.openloong.net/
+Copyright 2025 人形机器人（上海）有限公司, https://www.openloong.net/
 
 欢迎访问 🐉 OpenLoong 开源项目代码仓库！
 
